@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://liquidxp.github.io/atom.xml" rel="self"/>
   <link href="http://liquidxp.github.io/"/>
-  <updated>2013-11-29T03:39:30-08:00</updated>
+  <updated>2013-11-29T04:28:39-08:00</updated>
   <id>http://liquidxp.github.io/</id>
   <author>
     <name><![CDATA[Louie Rosales]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Index]]></title>
+    <title type="html"><![CDATA[Hello World With Octopress]]></title>
     <link href="http://liquidxp.github.io/blog/2013/11/29/index/"/>
     <updated>2013-11-29T03:04:18-08:00</updated>
     <id>http://liquidxp.github.io/blog/2013/11/29/index</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is a hello message from octopress. A dream blogging engine for hackers and hackers wannabe.</p>
 ]]></content>
   </entry>
   
